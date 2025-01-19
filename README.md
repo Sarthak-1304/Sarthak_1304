@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sarthak</h1>
-<h3 align="center">Aspiring Frontend Developer | SQL Enthusiast | Exploring Python</h3>
+<h3 align="center">Aspiring Data Analyst | SQL Enthusiast | Exploring Python</h3>
 
-- 🌱 I’m currently learning **DSA And JS**
+- 🌱 I’m currently learning **DSA,Python,MySql**
 
 - 📫 How to reach me **bsarthak06@gmail.com**
 
